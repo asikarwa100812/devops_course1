@@ -1,6 +1,10 @@
 hello to world of git hub.
+<<<<<<< HEAD
 hi for the 4th update thanks for your timei 
 hi 5th time hola
 7th change
 8th one
 9th change 
+=======
+hi for the 4th update thanks for your time 
+>>>>>>> parent of f9a0c1d... Add prac_start.txt
